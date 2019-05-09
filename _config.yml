@@ -1,0 +1,7 @@
+---
+title: Santa Monica Cultural Affairs Assets
+exclude:
+- README
+- CNAME
+- Gemfile
+- Gemfile.lock
